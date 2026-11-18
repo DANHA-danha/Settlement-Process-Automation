@@ -47,5 +47,5 @@
 - 팀마다 수작업 정산·확인에 쓰던 시간을 같은 방식으로 줄일 수 있음.
 
 ## UI 스크린샷
-<img src="자동화.png" width="100%" />
+<img src="automation.png" width="100%" />
 
